@@ -76,7 +76,7 @@
                 <div class="main-bot-tb">
                     <a href="https://cc.xbi5.cn/s" target="_blank" class="main-bot-tb-1" title="LOL科技"><i class="iconfont icon-hanhan-01-01"></i></a>
                     <a href="https://lol.xn--vuq433q.net/" target="_blank" class="main-bot-tb-2" title="LOL租号"><i class="iconfont icon-gouwu"></i></a>
-                    <a href="http://wpa.qq.com/msgrd?v=3&uin=1508850692&site=qq&menu=yes" target="_blank" class="main-bot-tb-3" title="QQ客服"><i class="iconfont icon-QQ"></i></a>
+                    <a href="https://5v5.lol/t/3qq.jpg" target="_blank" class="main-bot-tb-3" title="QQ客服"><i class="iconfont icon-QQ"></i></a>
                     <a href="https://qm.qq.com/cgi-bin/qm/qr?k=HFMl2Y_M02o6H-ZERPNqOFyh8oHdEvdE&jump_from=webapi&authKey=2nc7QfwHq35SE1eS38JyzV9cLRcdKI7l0dCrP0k6A1FwU3BAyz669QbBIzy+iGoO" target="_blank" class="main-bot-tb-4" title="加入我们"><i class="iconfont icon-QQ-circle-fill"></i></a>
                 </div>
                 
