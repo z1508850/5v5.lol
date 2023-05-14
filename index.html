@@ -131,7 +131,7 @@
 
         <!-- 版权声明 -->
         <div class="footer">
-            Copyright © 2017 - <span><?php echo date("Y");?></span> <a href="https://5v5.lol" class="footer-link">5v5</a> All Rights Reserved.
+            Copyright © 2017 - 2023 <a href="https://5v5.lol" class="footer-link">5v5</a> All Rights Reserved.
         </div>
 
 
