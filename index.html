@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
-
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id:"K441JCikPh8c0xZD",ck:"K441JCikPh8c0xZD"})</script>
 <head>
     <meta charset="UTF-8">
     <title>5v5.lol | 科技改变未来!</title>
